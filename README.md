@@ -13,6 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+![Flor-de-cerejeira](https://github.com/amanda-soares/amanda-soares/blob/main/pixel_flower.gif)
 -->
 
-### Olá, eu sou a Amanda Soares! 🌟
+## Olá, eu sou Amanda Soares! 🌟 
+
+<img align="right" alt="gif" src="https://github.com/amanda-soares/amanda-soares/blob/main/pixel_flower.gif" width="150px" />
+
+- Sou estudante de Análise e Desenvolvimento de Sistemas
+- Atualmente estou aprendendo sobre Front-End
+
+
