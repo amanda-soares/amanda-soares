@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 ## Olá, eu sou Amanda Soares! 🌟 
 
-<img align="right" alt="gif" src="https://github.com/amanda-soares/amanda-soares/blob/main/pixel_flower.gif" width="150px" />
+<img align="right" alt="gif" src="https://github.com/amanda-soares/amanda-soares/blob/main/pixel_flower.gif" width="200px" />
 
 - Sou estudante de Análise e Desenvolvimento de Sistemas
 - Atualmente estou aprendendo sobre Front-End
